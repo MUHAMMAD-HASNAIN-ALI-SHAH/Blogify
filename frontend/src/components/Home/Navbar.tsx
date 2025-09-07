@@ -19,7 +19,7 @@ const Navbar = () => {
         <div className="navbar bg-base-100 h-full">
           <div className="flex-1">
             <p className="btn btn-ghost text-xl">
-              <Link to={"/"}>Bloggy</Link>
+              <Link to={"/"}>Blogify</Link>
             </p>
           </div>
           <div className="flex items-center gap-3">
